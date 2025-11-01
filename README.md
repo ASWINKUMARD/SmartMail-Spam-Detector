@@ -48,3 +48,9 @@
 ✅ Fast training and low memory usage
 
 ✅ Ideal for educational and real-world text classification tasks
+
+  ### 👨‍💻 Author
+
+   **Aswin Kumar D**
+
+💌 *AI/ML Enthusiast | Deep Learning Developer*
